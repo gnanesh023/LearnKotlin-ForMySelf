@@ -1,3 +1,5 @@
+/// It's just a Exam Mark of Sunny&Mia , Don't worry ///
+
 fun main() {
 var sunny:Int= 38
 var mia :Int = 40
